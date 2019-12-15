@@ -293,3 +293,6 @@ console.log(Person.isAnimal) // false
 2.[Decorators in ES7](https://zhuanlan.zhihu.com/p/20139834)
 
 #### 代码
+
+1.[decorator-demo（装饰器demo）](https://github.com/Fangwenwen/js-decorator/tree/master/decorator-demo)  
+2.[decorator-in-koa（装饰器在koa-router中的应用）](https://github.com/Fangwenwen/js-decorator/tree/master/decorator-in-koa)
