@@ -1,0 +1,26 @@
+{
+  "name": "decorator-in-koa",
+  "version": "1.0.0",
+  "description": "decorator在koa-router中的运用",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node ./src/app.js"
+  },
+  "author": "fyw",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/register": "^7.7.4"
+  }
+}
